@@ -1,0 +1,2 @@
+Error al iniciar WebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'LAPTOP-KARLOS', ip: '192.168.100.15'
